@@ -10,7 +10,7 @@ It does not parse the following elements:
 
 ## Installation
 ```
-$ npm install xml2json
+$ npm install accesso-xml2json
 ```
 
 ## Usage 
