@@ -1,13 +1,14 @@
 {
-	"name" : "xml2json",
-	"version": "0.3.2",
-	"author": "Andrew Turley",
-	"email": "aturley@buglabs.net",
+	"name" : "accesso-xml2json",
+	"version": "0.4.0",
+	"author": "accesso",
+	"email": "shopv5dev@accesso.com",
 	"description" : "Converts xml to json and viceverza, using node-expat.",
-	"repository": "git://github.com/buglabs/node-xml2json.git", 
+	"repository": "git://github.com/accesso/node-xml2json.git", 
 	"main": "index", 
 	"contributors":[ 
-		{ "name": "Camilo Aguilar", "email": "camilo.aguilar@gmail.com" }
+		{ "name": "Daniel Neri", "email": "daniel.neri@accesso.com" },
+		{ "name": "Laura Tischuk", "email": "laura.tischuk@accesso.com" }
 	],
 	"dependencies": {
 	   "node-expat": "2.3.7"
