@@ -11,7 +11,7 @@
 		{ "name": "Laura Tischuk", "email": "laura.tischuk@accesso.com" }
 	],
 	"dependencies": {
-	   "node-expat": "2.3.7"
+	   "node-expat": "2.3.13"
 	},
 	"bin": {
 		"xml2json": "bin/xml2json"
