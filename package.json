@@ -1,17 +1,23 @@
 {
-	"name" : "accesso-xml2json",
+	"name": "accesso-xml2json",
 	"version": "0.5.0",
 	"author": "accesso",
 	"email": "shopv5dev@accesso.com",
-	"description" : "Converts xml to json and viceverza, using node-expat.",
-	"repository": "git://github.com/accesso/node-xml2json.git", 
-	"main": "index", 
-	"contributors":[ 
-		{ "name": "Daniel Neri", "email": "daniel.neri@accesso.com" },
-		{ "name": "Laura Tischuk", "email": "laura.tischuk@accesso.com" }
+	"description": "Converts xml to json and viceverza, using node-expat.",
+	"repository": "git://github.com/accesso/node-xml2json.git",
+	"main": "index",
+	"contributors": [
+		{
+			"name": "Daniel Neri",
+			"email": "daniel.neri@accesso.com"
+		},
+		{
+			"name": "Laura Tischuk",
+			"email": "laura.tischuk@accesso.com"
+		}
 	],
 	"dependencies": {
-	   "node-expat": "2.3.13"
+		"node-expat": "^2.3.18"
 	},
 	"bin": {
 		"xml2json": "bin/xml2json"
