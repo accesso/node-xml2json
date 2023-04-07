@@ -21,5 +21,9 @@
 	},
 	"bin": {
 		"xml2json": "bin/xml2json"
-	}
+	},
+  "script": {
+    "preversion": "echo \"No preversion needed\"",
+    "version": "node replaceversion.js"
+  }
 }
